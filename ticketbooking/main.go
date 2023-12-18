@@ -34,7 +34,7 @@ func main() {
 	case "No":
 		fmt.Println("Enjoy the Movie:)")
 	}
-	fmt.Println("Movie Name:")
+	fmt.Print("Movie Name:")
 	fmt.Scan(&mov)
 	bye(mov)
 }
