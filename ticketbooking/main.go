@@ -40,5 +40,5 @@ func main() {
 }
 
 func bye(m string) {
-	fmt.Println("THANK YOU! ENJOY WATCHING ", m)
+	fmt.Println("THANK YOU! Enjoy watching ", m)
 }
